@@ -1,0 +1,7 @@
+-----------3.0 Changelog---------------
+Removed Sorcerium
+Added Naturalist
+Added Blood Bits
+Removed Furnish
+Removed origin biome and spider nests.
+Players no longer spawn with a horse.
