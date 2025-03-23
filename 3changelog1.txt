@@ -1,8 +1,24 @@
------------3.0 Changelog---------------
-Removed Sorcerium
-Added Naturalist
+--------------------3.0 Changelog-------------------
+Added Naturalist and Compats
 Added Blood Bits
 Removed Furnish
+Removed Sorcerium
 Removed origin biome and spider nests.
 Players no longer spawn with a horse.
-Thanks JJ
+
+
+----------------------To-do List-------------------
+add "Are you Sure" button to quit to desktop.
+finish cannabis mod?
+Adjust Terrapin Spawnrates
+Fishermans trap make tick longer
+Change sfcr cloud config
+Change Villager eyebrow textures
+change campfire texture to unlit
+edit voice chat setting button in pause menu
+force all saplings to grow dynamic
+
+
+----------------------Waiting List----------------
+Creatures and beasts
+Numismatic Overhaul: Reforged
