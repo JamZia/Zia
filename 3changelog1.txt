@@ -6,9 +6,18 @@ Added Naturalist and Compats
 Added Blood Bits
 Added Loot Journal
 Added Particular
+Added Biomancy
+Added Chalk
+Added e4mc (Play LAN with anyone!)
+Added Fantasy Armor (Medieval Series)
+Added Ribbits
+Added Tavern Tokens
+Added Does It Tick?
 
 --------------------Removals:
 Removed Furnish
+Removed Cultural Delights
+Removed Knight Quest
 Removed Pickup Notifier
 Removed Sorcerium
 Removed origin biome and spider nests.
@@ -30,4 +39,4 @@ force all saplings to grow dynamic
 
 ------------------------Waiting List-:
 Creatures and beasts
-Numismatic Overhaul: Reforged
+Numismatic Overhaul: Reforged 9will replace "Tavern Tokens".
