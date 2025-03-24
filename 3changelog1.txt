@@ -1,4 +1,4 @@
-Welcome to the Tillage 3.0 Beta.
+Welcome to the Tillage 3.0 Beta. There will be bugs.
 --------------------3.0 Changelog:
 Added back singleplayer.
 Added Naturalist and Compats
@@ -10,7 +10,7 @@ Added Chalk
 Added e4mc (Play LAN with anyone!)
 Added Fantasy Armor (Medieval Series)
 Added Ribbits
-Added Tavern Tokens
+Added Tavern Tokens (may be crashing?)
 Added Does It Tick?
 Added Dynamic Trees - Alex's Mobs Compat
 
@@ -34,23 +34,25 @@ Removed Lightspeed
 Removed PickupTorches
 Removed Reforgium
 
+Changed most of the UI menus.
+Removed "Quit to Desktop" button.
 Removed origin biome and spider nests.
 Made realistic clouds more realistic.
 Players no longer spawn with a horse.
-Removed "Quit to Desktop" button.
-Changed most of the UI.
-Adjusted somemob spawn rates.
+Adjusted some mob spawn rates.
 
 --------------------To-do List:
-add a way to join a friend co-op.
-edit the splash text file.
-biomes o plenty texture support.
-fix/finish config for quark emotes
-finish cannabis mod?
-Fishermans trap make tick longer
-Change Villager eyebrow textures
-change campfire texture to unlit
-force all saplings to grow dynamic
+Add a way to join a friend co-op. (done, but buggy).
+Fix the "fullscreen loading screen" bug.
+Remove/change the MyZia.net/Tillage link in MP page.
+Edit the splash text file.
+Biomes o plenty texture support.
+Gix/finish config for quark emotes.
+Ginish cannabis mod?
+Fishermans trap make tick longer.
+Change Villager eyebrow textures.
+Change campfire texture to unlit.
+Gorce all saplings to grow dynamic.
 
 ------------------------Waiting List-:
 Creatures and beasts
