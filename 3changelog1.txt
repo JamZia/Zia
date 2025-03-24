@@ -1,5 +1,5 @@
-Welcome to the Tillage 3.0 Beta. You are a special person if you have been invited to play this.
--------------------3.0 Changelog-------------------
+Welcome to the Tillage 3.0 Beta.
+--------------------3.0 Changelog:
 Additions:
 Added back singleplayer.
 Added Naturalist and Compats
@@ -7,7 +7,7 @@ Added Blood Bits
 Added Loot Journal
 Added Particular
 
-Removals:
+--------------------Removals:
 Removed Furnish
 Removed Pickup Notifier
 Removed Sorcerium
@@ -15,7 +15,7 @@ Removed origin biome and spider nests.
 Players no longer spawn with a horse.
 
 
---------------------To-do List--------------------
+--------------------To-do List:
 add "Are you Sure" button to quit to desktop.
 fix/finish config for quark emotes
 clean up pause menu UI
@@ -28,6 +28,6 @@ change campfire texture to unlit
 force all saplings to grow dynamic
 
 
-------------------------Waiting List----------------
+------------------------Waiting List-:
 Creatures and beasts
 Numismatic Overhaul: Reforged
