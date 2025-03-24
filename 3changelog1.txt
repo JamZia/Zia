@@ -1,4 +1,4 @@
-Welcome to the Tillage 3.0 Beta. There will be bugs.
+☀ Welcome to the Tillage 3.0 Beta. There will be bugs.
 --------------------3.0 Changelog:
 Added back singleplayer.
 Added Naturalist and Compats
