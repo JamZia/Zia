@@ -1,6 +1,5 @@
 Welcome to the Tillage 3.0 Beta.
 --------------------3.0 Changelog:
-Additions:
 Added back singleplayer.
 Added Naturalist and Compats
 Added Blood Bits
@@ -13,31 +12,46 @@ Added Fantasy Armor (Medieval Series)
 Added Ribbits
 Added Tavern Tokens
 Added Does It Tick?
+Added Dynamic Trees - Alex's Mobs Compat
 
---------------------Removals:
 Removed Furnish
+Removed Create: Copycats+
 Removed Cultural Delights
 Removed Knight Quest
 Removed Pickup Notifier
 Removed Sorcerium
+Removed Breezy
+Removed Easy Magic
+Removed Effective (replaced by Particular)
+Removed Diagonal Fences
+Removed Fast Paintings
+Removed Texels Paintings
+Removed Too Many Paintings
+Removed Just a Well
+Removed Kakapos
+Removed Miners Helmet
+Removed Lightspeed
+Removed PickupTorches
+Removed Reforgium
+
 Removed origin biome and spider nests.
+Made realistic clouds more realistic.
 Players no longer spawn with a horse.
 Removed "Quit to Desktop" button.
-
+Changed most of the UI.
+Adjusted somemob spawn rates.
 
 --------------------To-do List:
 add a way to join a friend co-op.
+edit the splash text file.
 biomes o plenty texture support.
 fix/finish config for quark emotes
 finish cannabis mod?
-Adjust Terrapin Spawnrates
 Fishermans trap make tick longer
-Change sfcr cloud config
 Change Villager eyebrow textures
 change campfire texture to unlit
 force all saplings to grow dynamic
 
-
 ------------------------Waiting List-:
 Creatures and beasts
-Numismatic Overhaul: Reforged 9will replace "Tavern Tokens".
+Numismatic Overhaul: Reforged (will replace "Tavern Tokens".)
