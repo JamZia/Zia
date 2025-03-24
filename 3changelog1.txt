@@ -26,6 +26,7 @@ Removed "Quit to Desktop" button.
 
 
 --------------------To-do List:
+add a way to join a friend co-op.
 biomes o plenty texture support.
 fix/finish config for quark emotes
 finish cannabis mod?
