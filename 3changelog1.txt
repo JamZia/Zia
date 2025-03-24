@@ -22,13 +22,12 @@ Removed Pickup Notifier
 Removed Sorcerium
 Removed origin biome and spider nests.
 Players no longer spawn with a horse.
+Removed "Quit to Desktop" button.
 
 
 --------------------To-do List:
-add "Are you Sure" button to quit to desktop.
 biomes o plenty texture support.
 fix/finish config for quark emotes
-clean up pause menu UI
 finish cannabis mod?
 Adjust Terrapin Spawnrates
 Fishermans trap make tick longer
