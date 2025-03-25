@@ -1,6 +1,6 @@
 ☀ Welcome to the Tillage 3.0 Beta. There will be bugs.
 --------------------3.0 Changelog:
-Added back singleplayer.
+Returned/Fixed Singleplayer Functionality!
 Added Naturalist and Compats
 Added Blood Bits
 Added Loot Journal
@@ -30,6 +30,7 @@ Removed Texels Paintings
 Removed Too Many Paintings
 Removed Just a Well
 Removed Kakapos
+removed Dynamic Crosshair
 Removed Miners Helmet
 Removed Lightspeed
 Removed PickupTorches
@@ -37,11 +38,11 @@ Removed Reforgium
 Removed Simple Musket
 
 Changed most of the UI menus.
-Removed "Quit to Desktop" button.
-Removed origin biome and spider nests.
-Made realistic clouds more realistic.
-Players no longer spawn with a horse.
-Adjusted some mob spawn rates.
+Removed "Quit to Desktop" button
+Removed origin biome and spider nests
+Made realistic clouds more realistic
+Players no longer spawn with a horse
+Adjusted some mob spawn rates
 
 --------------------To-do List:
 Add a way to join a friend co-op. (done, but buggy).
