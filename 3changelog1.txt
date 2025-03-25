@@ -48,7 +48,7 @@ Adjusted some mob spawn rates
 Add a way to join a friend co-op. (done, but buggy).
 Fix the "fullscreen loading screen" bug.
 Remove/change the MyZia.net/Tillage link in MP page.
-Edit the splash text file.
+Fix the pause menu "online rules" button.
 Biomes o plenty texture support.
 Gix/finish config for quark emotes.
 Ginish cannabis mod?
