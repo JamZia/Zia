@@ -1,6 +1,7 @@
 ☀ Welcome to the Tillage 3.0 Beta. There will be bugs.
 --------------------3.0 Changelog:
 Returned/Fixed Singleplayer Functionality!
+Added (and fixed) lots of textures.
 Added Naturalist and Compats
 Added Blood Bits
 Added Loot Journal
@@ -15,7 +16,6 @@ Added Does It Tick?
 Added Dynamic Trees - Alex's Mobs Compat
 Added Rustic Delight
 
-Removed Furnish
 Removed Create: Copycats+
 Removed Cultural Delights
 Removed Knight Quest
@@ -46,6 +46,7 @@ Adjusted some mob spawn rates
 
 --------------------To-do List:
 Add a way to join a friend co-op. (done, but buggy).
+Go through and potentially customize each config.
 Add main menu music.
 Fix the "fullscreen loading screen" bug.
 Remove/change the MyZia.net/Tillage link in MP page.
