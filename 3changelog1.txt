@@ -33,6 +33,7 @@ Removed Miners Helmet
 Removed Lightspeed
 Removed PickupTorches
 Removed Reforgium
+Removed Simple Musket
 
 Changed most of the UI menus.
 Removed "Quit to Desktop" button.
