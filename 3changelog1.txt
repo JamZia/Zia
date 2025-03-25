@@ -16,7 +16,6 @@ Added Does It Tick?
 Added Dynamic Trees - Alex's Mobs Compat
 Added Rustic Delight
 
-Removed Create: Copycats+
 Removed Cultural Delights
 Removed Knight Quest
 Removed Pickup Notifier
@@ -52,13 +51,14 @@ Fix the "fullscreen loading screen" bug.
 Remove/change the MyZia.net/Tillage link in MP page.
 Fix the pause menu "online rules" button.
 Biomes o plenty texture support.
-Gix/finish config for quark emotes.
-Ginish cannabis mod?
+Fix/finish config for quark emotes.
+Finish cannabis mod?
 Fishermans trap make tick longer.
 Change Villager eyebrow textures.
 Change campfire texture to unlit.
 Gorce all saplings to grow dynamic.
 
-------------------------Waiting List-:
+------------------------Waiting List:
 Creatures and beasts
 Numismatic Overhaul: Reforged
+Create: CopyCats+ bugfixes
