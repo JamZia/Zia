@@ -9,10 +9,9 @@ Added Loot Journal
 Added Particular
 Added Biomancy
 Added Chalk
-Added e4mc (Play LAN with anyone!)
-Added Fantasy Armor (Medieval Series)
+Added e4mc (For Co-op)
+Added Fantasy Armor Medieval Series
 Added Ribbits
-Added Tavern Tokens (may be crashing?)
 Added Does It Tick?
 Added Dynamic Trees - Alex's Mobs Compat
 Added Rustic Delight
@@ -62,4 +61,4 @@ Gorce all saplings to grow dynamic.
 
 ------------------------Waiting List-:
 Creatures and beasts
-Numismatic Overhaul: Reforged (will replace "Tavern Tokens".)
+Numismatic Overhaul: Reforged
