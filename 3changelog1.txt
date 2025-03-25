@@ -47,6 +47,7 @@ Adjusted some mob spawn rates
 Add a way to join a friend co-op. (done, but buggy).
 Go through and potentially customize each config.
 Add main menu music.
+Add dynamic lighting.
 Fix connected textures
 Players in-co-op animations buggy.
 Fix the "fullscreen loading screen" bug.
