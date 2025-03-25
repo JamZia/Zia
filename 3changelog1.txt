@@ -13,6 +13,7 @@ Added Ribbits
 Added Tavern Tokens (may be crashing?)
 Added Does It Tick?
 Added Dynamic Trees - Alex's Mobs Compat
+Added Rustic Delight
 
 Removed Furnish
 Removed Create: Copycats+
