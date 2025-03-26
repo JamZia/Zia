@@ -18,11 +18,11 @@ Added Rustic Delight
 
 Removed Cultural Delights
 Removed Knight Quest
-Removed Pickup Notifier
+Removed Pickup Notifier (Replcaced by Loot Journal)
 Removed Sorcerium
 Removed Breezy
 Removed Easy Magic
-Removed Effective (replaced by Particular)
+Removed Effective (Replaced by Particular)
 Removed Diagonal Fences
 Removed Fast Paintings
 Removed Texels Paintings
@@ -44,22 +44,21 @@ Players no longer spawn with a horse
 Adjusted some mob spawn rates
 
 --------------------To-do List:
-Add a way to join a friend co-op. (done, but buggy).
-Go through and potentially customize each config.
-Add main menu music.
-Add dynamic lighting.
-Fix connected textures
-Players in-co-op animations buggy.
-Fix the "fullscreen loading screen" bug.
-Remove/change the MyZia.net/Tillage link in MP page.
-Fix the pause menu "online rules" button.
-Biomes o plenty texture support.
-Fix/finish config for quark emotes.
-Finish cannabis mod?
-Fishermans trap make tick longer.
-Change Villager eyebrow textures.
-Change campfire texture to unlit.
-Gorce all saplings to grow dynamic.
+Add a way to join a friend co-op. (done, but buggy). (Low Priority)
+Go through and potentially customize each config. (High Priority)
+Add main menu music. (Low Priority)
+Add dynamic lighting. (High Priority)
+Fix connected textures (High Priority)
+Players in-co-op animations buggy. (Low Priority)
+Fix the "fullscreen loading screen" bug. (Low Priority)
+Fix the pause menu "online rules" button. (Medium Priority)
+Biomes o plenty texture support. (High Priority)
+Fix/finish config for quark emotes. (High Priority)
+Finish cannabis mod? (High Priority)
+Fishermans trap make tick longer. (Low Priority)
+Change Villager eyebrow textures. (Low Priority)
+Change campfire texture to unlit. (High Priority)
+Gorce all saplings to grow dynamic. (High Priority)
 
 ------------------------Waiting List:
 Creatures and beasts
