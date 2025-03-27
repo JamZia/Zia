@@ -1,1 +1,20 @@
-This is the start of matcha and honeys github repo for announcements n stuff.
+This is the github repo that is used for updating directly to the modpack for update announcements and changelogs. Its really cool and you can scroll through all of the lines that we write.
+Heres the last changelog for example:
+---Changelog---
+Updates:
+Lithium
+Language Reload
+BetterGrassify
+Polytone
+FSit
+YACL
+CICADA
+Presence Footsteps
+
+Removals:
+Annuus
+Allay, behave !
+
+Notes:
+Moved shaders back to the shaderpacks folder instead of YOSBR (so Modrinth says the pack includes the shaders.) Any user changes to included shaders will need to be backed up manually before updating else they will be overwritten.
+Annuus and Allay, behave ! have been removed server-side as well, hence their removal here.
