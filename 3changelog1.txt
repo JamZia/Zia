@@ -1,47 +1,79 @@
-☀ Welcome to the Tillage 3.0 Beta. There will be bugs.
+§a ☀ Welcome to the Tillage 3.0 Beta. There will be bugs.
 "The Solitude & Style Update"
 --------------------3.0 Changelog:
-Returned/Fixed Singleplayer Functionality!
-Added (and fixed) lots of textures.
-Added Naturalist and Compats
-Added Blood Bits
-Added Loot Journal
-Added Particular
-Added Biomancy
-Added Chalk
-Added e4mc (For Co-op)
-Added Fantasy Armor Medieval Series
-Added Ribbits
-Added Does It Tick?
-Added Dynamic Trees - Alex's Mobs Compat
-Added Rustic Delight
+- Returned/Fixed Singleplayer Functionality!
+Play singleplayer and co-op with friends.
+- Added (and fixed) lots of textures.
+Weapons, mobs, ui and block textures added.
+- Added Naturalist and compatibilities.
+Naturalist adds more real life animals. Compatible with Alex's Mobs and a few more.
+- Added Blood Bits.
+Fighting now has a little bit of pixel gore.
+- Added Loot Journal. (Replaced Pickup Notifier)
+Shows the player what they recently picked up.
+-Added Particular. (Replaced Effective)
+Adds particles from splashes, rain and more.
+- Added Biomancy.
+Flesh-related 'magic' stuff and bio-machines.
+- Added Chalk.
+Chalk allows you to draw marks for easier navigation in the world.
+- Added e4mc.
+Adds the ability to share your singleplayer worlds. (Co-op)
+- Added Fantasy Armor Medieval Series.
+Adds many new netherite-tier detailed and decorational armor sets.
+- Added Ribbits.
+Meet and trade with Ribbits, little frog-like villagers.
+- Added Does It Tick?
+Performance mod. Disables entities ticking while not visible.
+- Added Dynamic Trees - Alex's Mobs Compat.
+Adds banana plants and acacia blossoms drops for acacia trees.
+- Added Rustic Delight.
+Pancakes, coffee, bell peppers and cotton.
 
-Removed Cultural Delights
-Removed Knight Quest
-Removed Pickup Notifier (Replcaced by Loot Journal)
-Removed Sorcerium
-Removed Breezy
-Removed Easy Magic
-Removed Effective (Replaced by Particular)
-Removed Diagonal Fences
-Removed Fast Paintings
-Removed Texels Paintings
-Removed Too Many Paintings
-Removed Just a Well
-Removed Kakapos
-removed Dynamic Crosshair
-Removed Miners Helmet
-Removed Lightspeed
-Removed PickupTorches
-Removed Reforgium
-Removed Simple Musket
 
-Changed most of the UI menus.
-Removed "Quit to Desktop" button
-Removed origin biome and spider nests
-Made realistic clouds more realistic
-Players no longer spawn with a horse
-Adjusted some mob spawn rates
+- Removed Cultural Delights.
+Incompatible/Duplicate content.
+- Removed Knight Quest.
+Buggy. Difficult to follow and unused.
+- Removed Pickup Notifier. (Replcaced by Loot Journal)
+- Removed Sorcerium.
+Incompatible content.
+- Removed Breezy.
+Unused.
+- Removed Easy Magic.
+Unused.
+- Removed Effective. (Replaced by Particular)
+- Removed Diagonal Fences.
+Causes too many pathfinding AI issues.
+- Removed Fast Paintings.
+Unnecessary.
+- Removed Texels Paintings.
+Unused.
+- Removed Too Many Paintings.
+Unused.
+- Removed Just a Well.
+Incompatible content/Unused.
+- Removed Kakapos.
+Unused.
+- removed Dynamic Crosshair.
+Too confusing for new players.
+- Removed Miners Helmet.
+Unused.
+- Removed Lightspeed.
+Mod not updated.
+- Removed PickupTorches.
+Unnecessary.
+- Removed Reforgium.
+Mod not updated.
+- Removed Simple Musket.
+Unnecessary.
+
+- Changed most of the UI menus.
+- Removed "Quit to Desktop" button.
+- Removed origin biome and spider nests.
+- Made realistic clouds more realistic.
+- Players no longer spawn with a horse.
+- Adjusted some mob spawn rates.
 
 --------------------To-do List:
 Add a way to join a friend co-op. (done, but buggy). (Low Priority)
