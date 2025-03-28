@@ -1,5 +1,3 @@
-§a ☀ Welcome to the Tillage 3.0 Beta. There will be bugs.
-"The Solitude & Style Update"
 --------------------3.0 Changelog:
 - Returned/Fixed Singleplayer Functionality!
 Play singleplayer and co-op with friends.
