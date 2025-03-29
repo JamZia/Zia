@@ -2,11 +2,13 @@
 - Returned/Fixed Singleplayer Functionality!
 Play singleplayer and co-op with friends.
 - Added (and fixed) lots of textures.
-Weapons, mobs, ui, furniture, BOP and block textures added.
+*Some* Weapons, mobs, ui, furniture, food, BOP and block textures added.
 - Added Naturalist and compatibilities.
 Naturalist adds more real life animals. Compatible with Alex's Mobs and a few more.
 - Added Blood Bits.
 Fighting now has a little bit of pixel gore.
+-Added Rain should extinguish campfires
+Rain extinguish campfires if outside.
 - Added Loot Journal. (Replaced Pickup Notifier)
 Shows the player what they recently picked up.
 -Added Particular. (Replaced Effective)
@@ -15,6 +17,8 @@ Adds particles from splashes, rain and more.
 Flesh-related 'magic' stuff and bio-machines.
 - Added Chalk.
 Chalk allows you to draw marks for easier navigation in the world.
+- Added Quark Delight.
+An add-on for Farmer's Delight that adds compatibility with Quark.
 - Added e4mc.
 Adds the ability to share your singleplayer worlds. (Co-op)
 - Added Fantasy Armor Medieval Series.
@@ -88,7 +92,8 @@ Finish cannabis mod? (High Priority)
 Fishermans trap make tick longer. (Low Priority)
 Change Villager eyebrow textures. (Low Priority)
 Change campfire texture to unlit. (High Priority)
-Gorce all saplings to grow dynamic. (High Priority)
+Force all saplings to grow dynamic. (High Priority)
+Make sure purpur textures are fixed.
 
 ------------------------Waiting List:
 Creatures and beasts
