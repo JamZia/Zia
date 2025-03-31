@@ -93,8 +93,9 @@ Fishermans trap make tick longer. (Low Priority)
 Change Villager eyebrow textures. (Low Priority)
 Change campfire texture to unlit. (High Priority)
 Force all saplings to grow dynamic. (High Priority)
-Make sure purpur textures are fixed.
-Fix missing texture for BOP flowering leaves.
+Get textures for astikorcarts
+Fix missing texture for BOP.
+Fix texture for suspicious sand.
 Make all structures rarer.
 
 ------------------------Waiting List:
