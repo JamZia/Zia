@@ -1,13 +1,14 @@
 # 3.0 Changelog:
+## Additions
 - Returned/Fixed Singleplayer Functionality!
 Play singleplayer and co-op with friends.
-- Added (and fixed) lots of textures.
-*Some* Weapons, mobs, ui, furniture, food, BOP and block textures added.
+- Added (and fixed) lots of textures. (Too many to list!)
+Carts, weapons, mobs, ui, furniture, food, BOP and block textures added.
 - Added Naturalist and compatibilities.
 Naturalist adds more real life animals. Compatible with Alex's Mobs and a few more.
 - Added Blood Bits.
 Fighting now has a little bit of pixel gore.
-- Added Rain should extinguish campfires
+- Added Rain should extinguish campfires.
 Rain extinguish campfires if outside.
 - Added Loot Journal. (Replaced Pickup Notifier)
 Shows the player what they recently picked up.
@@ -32,7 +33,7 @@ Adds banana plants and acacia blossoms drops for acacia trees.
 - Added Rustic Delight.
 Pancakes, coffee, bell peppers and cotton.
 
-
+## Removals
 - Removed Cultural Delights.
 Incompatible/Duplicate content.
 - Removed Knight Quest.
@@ -70,12 +71,14 @@ Mod not updated.
 - Removed Simple Musket.
 Unnecessary.
 
+## Other Changes
 - Changed most of the UI menus.
 - Removed "Quit to Desktop" button.
-- Removed origin biome and spider nests.
+- Removed origin biome.
 - Made realistic clouds more realistic.
 - Players no longer spawn with a horse.
 - Adjusted some mob spawn rates.
+- Changed the starter kit items.
 
 # To-do List:
 Add a way to join a friend co-op. (done, but buggy. can we fix it more?).
