@@ -3,7 +3,7 @@
 
 JamZia - Developer
 tommotom - Creator & Inspiration
----
+
 ## Beta Testers:
 SelGuard
 CobaltFlame
@@ -25,7 +25,6 @@ thecutegard
 Wynther
 zero8034
 
----
 ## Texture Artists:
 Maffhew - Excalibur Pack Creator
 anivay
