@@ -1,7 +1,4 @@
---------------------3.0 Changelog:
-# Biggest Test
-## Big Test
-### Smol Test
+# 3.0 Changelog:
 - Returned/Fixed Singleplayer Functionality!
 Play singleplayer and co-op with friends.
 - Added (and fixed) lots of textures.
@@ -80,7 +77,7 @@ Unnecessary.
 - Players no longer spawn with a horse.
 - Adjusted some mob spawn rates.
 
---------------------To-do List:
+# To-do List:
 Add a way to join a friend co-op. (done, but buggy. can we fix it more?).
 Go through and potentially customize each config. (High Priority)
 Add main menu music by Lawnle.
@@ -102,7 +99,7 @@ Fix texture for suspicious sand.
 Make all structures rarer.
 Create reputation system with 3 color prefix tiers. Good rep gets good effects now and then. players start neutral/yellow.
 
-------------------------Waiting List:
+# Waiting List:
 Creatures and beasts
 Numismatic Overhaul: Reforged
 Create: CopyCats+ bugfixes
