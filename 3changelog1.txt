@@ -50,6 +50,8 @@ Incompatible content.
 Unused.
 - Removed Easy Magic.
 Unused.
+- Removed Better Brightness Slider
+Felt a little cheaty.
 - Removed Effective. (Replaced by Particular)
 - Removed Diagonal Fences.
 Causes too many pathfinding AI issues.
