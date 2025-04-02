@@ -33,6 +33,10 @@ Performance mod. Disables entities ticking while not visible.
 Adds banana plants and acacia blossoms drops for acacia trees.
 - Added Rustic Delight.
 Pancakes, coffee, bell peppers and cotton.
+- Added Better F3.
+Improves the F3 debug screen.
+- Added Starlight.
+Rewrites the light engine to fix lighting performance and lighting errors.
 
 ## Removals
 - Removed Cultural Delights.
@@ -107,8 +111,10 @@ Make all structures rarer.
 Create reputation system with 3 color prefix tiers when beta server starts. Good rep gets good effects now and then. players start neutral/yellow.
 Change the starter kit items.
 Make the loading world message say "Loading The Land" instead of "Joining Tillage".
+Maybe find a way to remove or cover up the MCA logo.
 
 # Waiting List:
+Connectedness
 Creatures and beasts
 Numismatic Overhaul: Reforged
 Create: CopyCats+ bugfixes
