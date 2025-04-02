@@ -106,6 +106,7 @@ Fix texture for suspicious sand.
 Make all structures rarer.
 Create reputation system with 3 color prefix tiers when beta server starts. Good rep gets good effects now and then. players start neutral/yellow.
 Change the starter kit items.
+Make the loading world message say "Loading The Land" instead of "Joining Tillage".
 
 # Waiting List:
 Creatures and beasts
