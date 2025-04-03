@@ -114,6 +114,7 @@ Create reputation system with 3 color prefix tiers when beta server starts. Good
 Change the starter kit items.
 Make the loading world message say "Loading The Land" instead of "Joining Tillage".
 Maybe find a way to remove or cover up the MCA logo.
+Remove some buttons in online settings options.
 
 # Waiting List:
 Connectedness
