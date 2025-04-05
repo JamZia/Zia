@@ -89,11 +89,13 @@ Unnecessary.
 - Players no longer spawn with a horse.
 - Adjusted some mob spawn rates.
 - Changed the starter kit items.
+- Made multiplayer-style gamerules global.
 
 # To-do List:
 Add a way to join a friend co-op. (done, but buggy. can we fix it more?).
 Go through and potentially customize each config. (High Priority)
 Add main menu music by Lawnle. (?)
+Add more main menu music
 Configure create.
 Add dynamic lighting. (High Priority)
 Fix connected textures (High Priority)
