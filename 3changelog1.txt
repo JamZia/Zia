@@ -97,6 +97,7 @@ Go through and potentially customize each config. (High Priority)
 Add main menu music by Lawnle. (?)
 Add more main menu music
 Configure create.
+Double check drinkable items have thirst quenching.
 Add dynamic lighting. (High Priority)
 Fix connected textures (High Priority)
 Players in-co-op animations buggy.
