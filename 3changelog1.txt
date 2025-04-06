@@ -119,6 +119,7 @@ Change the starter kit items.
 Make the loading world message say "Loading The Land" instead of "Joining Tillage".
 Maybe find a way to remove or cover up the MCA logo.
 Remove some buttons in online settings options.
+Change/Redo the Getting Started pause menu thing.
 
 # Waiting List:
 Connectedness
