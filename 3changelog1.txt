@@ -3,9 +3,9 @@
 - Returned/Fixed Singleplayer Functionality!
 Play singleplayer and co-op with friends.
 - Introducing a new "Reputation" system for dedicated multiplayer.
-- Added (and fixed) lots of textures. (Too many to list!)
-Carts, weapons, mobs, ui, furniture, food, BOP and block textures added.
-- Added Naturalist and compatibilities.
+- Added (and fixed) lots of Tillage-style textures.
+Carts, weapons, mobs, ui, furniture, food, BOP block textures and more added.
+- Added Naturalist.
 Naturalist adds more real life animals. Compatible with Alex's Mobs and a few more.
 - Added Blood Bits.
 Fighting now has a little bit of pixel gore.
@@ -81,6 +81,7 @@ Unnecessary.
 ## Other Changes
 - Main Menu Announcements and Versions now read from Github. (Now we can display information without pushing a modpack update!)
 - Changed most of the UI menus.
+- Added an animated game intro.
 - Put Voice Chat settings into game settings.
 - Removed "Quit to Desktop" button.
 - Changed the main menu music.
@@ -96,15 +97,12 @@ Add a way to join a friend co-op. (done, but buggy. can we fix it more?).
 Go through and potentially customize each config. (High Priority)
 Add main menu music by Lawnle. (?)
 Add more main menu music
-Configure create.
 Double check drinkable items have thirst quenching.
 Add dynamic lighting. (High Priority)
 Fix connected textures (High Priority)
 Players in-co-op animations buggy.
 Fix the "fullscreen loading screen" bug.
-Fix the pause menu "online rules" button.
 Biomes o plenty texture support. (High Priority)
-Fix/finish config for quark emotes.
 Finish cannabis mod? (High Priority) (?)
 Fishermans trap make tick longer.
 Change Villager eyebrow textures.
@@ -115,12 +113,11 @@ Fix texture for suspicious sand.
 Add Textures for "Tide" mod.
 Make all structures rarer.
 Create reputation system with 3 color prefix tiers when beta server starts. Good rep gets good effects now and then. players start neutral/yellow.
-Change the starter kit items.
+Change the starter kit items. (sorta done?)
 Make the loading world message say "Loading The Land" instead of "Joining Tillage".
 Maybe find a way to remove or cover up the MCA logo.
 Remove some buttons in online settings options.
 Change/Redo the Getting Started pause menu thing.
-make animated gif game intro
 
 # Waiting List:
 Connectedness
