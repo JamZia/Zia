@@ -118,6 +118,7 @@ Make the loading world message say "Loading The Land" instead of "Joining Tillag
 Maybe find a way to remove or cover up the MCA logo.
 Remove some buttons in online settings options.
 Change/Redo the Getting Started pause menu thing.
+Change 'hal4' to something else. Check other music.
 
 # Waiting List:
 Connectedness
