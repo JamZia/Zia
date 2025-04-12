@@ -77,6 +77,8 @@ Unnecessary.
 Mod not updated.
 - Removed Simple Musket.
 Unnecessary.
+- Removed Immersive Paintings.
+Unused.
 
 ## Other Changes
 - Main Menu Announcements and Versions now read from Github. (Now we can display information without pushing a modpack update!)
