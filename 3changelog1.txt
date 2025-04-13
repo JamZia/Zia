@@ -114,6 +114,8 @@ Fix missing texture for BOP.
 Fix texture for suspicious sand.
 Add Textures for "Tide" mod.
 Make all structures rarer.
+Finish textures for Tide Mod.
+Finish textures for bucketed fish.
 Create reputation system with 3 color prefix tiers when beta server starts. Good rep gets good effects now and then. players start neutral/yellow.
 Change the starter kit items. (sorta done?)
 Make the loading world message say "Loading The Land" instead of "Joining Tillage".
