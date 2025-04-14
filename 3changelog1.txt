@@ -93,6 +93,8 @@ Unused.
 - Adjusted some mob spawn rates.
 - Changed the starter kit items.
 - Made multiplayer-style gamerules global.
+- All saplings grow into dynamic trees.
+- Nerfed the Fisherman Trap.
 
 # To-do List:
 Add a way to join a friend co-op. (done, but buggy. can we fix it more?).
@@ -106,19 +108,13 @@ Players in-co-op animations buggy.
 Fix the "fullscreen loading screen" bug.
 Biomes o plenty texture support. (High Priority)
 Finish cannabis mod? (High Priority) (?)
-Fishermans trap make tick longer.
 Change Villager eyebrow textures.
-Force all saplings to grow dynamic.
-Fix missing texture for BOP.
-Fix texture for suspicious sand.
-Add Textures for "Tide" mod.
+Finish missing texture for BOP.
 Make all structures rarer.
 Finish textures for Tide Mod.
 Finish textures for bucketed fish.
 Create reputation system with 3 color prefix tiers when beta server starts. Good rep gets good effects now and then. players start neutral/yellow.
-Change the starter kit items. (sorta done?)
 Make the loading world message say "Loading The Land" instead of "Joining Tillage".
-Maybe find a way to remove or cover up the MCA logo.
 Remove some buttons in online settings options.
 Change/Redo the Getting Started pause menu thing.
 Change 'hal4' to something else. Check other music.
