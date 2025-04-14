@@ -108,7 +108,6 @@ Biomes o plenty texture support. (High Priority)
 Finish cannabis mod? (High Priority) (?)
 Fishermans trap make tick longer.
 Change Villager eyebrow textures.
-Change campfire texture to unlit.
 Force all saplings to grow dynamic.
 Fix missing texture for BOP.
 Fix texture for suspicious sand.
