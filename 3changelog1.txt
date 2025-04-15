@@ -78,8 +78,10 @@ Mod not updated.
 Unnecessary.
 - Removed Immersive Paintings.
 Unused.
-- Removed ModernFix
+- Removed ModernFix.
 Incompatibile.
+- Removed Stardew Fishing.
+Unused.
 
 ## Other Changes
 - Main Menu Announcements and Versions now read from Github. (Now we can display information without pushing a modpack update!)
