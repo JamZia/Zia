@@ -1,4 +1,4 @@
 # ☀ Welcome to the Tillage 3.0 Beta.
-## There will be bugs.
-"The Solitude & Style Update"
+## "The Solitude & Style Update"
+Expect bugs. Report bugs directly to JamZia.
 Expected release: #/##/2025.
