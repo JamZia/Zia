@@ -4,6 +4,7 @@
 Play singleplayer and co-op with friends.
 - Introducing a new "Reputation" system for dedicated multiplayer.
 - Added (and fixed) lots of Tillage-style textures.
+- Added randomly generated character roleplay stats. (Does not affect gameplay)
 Carts, weapons, mobs, ui, furniture, food, BOP block textures and more added.
 - Added Naturalist.
 Naturalist adds more real life animals. Compatible with Alex's Mobs and a few more.
@@ -35,8 +36,6 @@ Adds banana plants and acacia blossoms drops for acacia trees.
 Pancakes, coffee, bell peppers and cotton.
 - Added Better F3.
 Improves the F3 debug screen.
-- Added Starlight.
-Rewrites the light engine to fix lighting performance and lighting errors.
 
 ## Removals
 - Removed Cultural Delights.
@@ -79,6 +78,8 @@ Mod not updated.
 Unnecessary.
 - Removed Immersive Paintings.
 Unused.
+- Removed ModernFix
+Incompatibile.
 
 ## Other Changes
 - Main Menu Announcements and Versions now read from Github. (Now we can display information without pushing a modpack update!)
