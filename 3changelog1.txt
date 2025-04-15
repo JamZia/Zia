@@ -107,11 +107,8 @@ Fix connected textures (High Priority)
 Players in-co-op animations buggy.
 Fix the "fullscreen loading screen" bug.
 Biomes o plenty texture support. (High Priority)
-Finish cannabis mod? (High Priority) (?)
-Finish missing texture for BOP.
 Make all structures rarer.
 Finish textures for Tide Mod.
-Finish textures for bucketed fish.
 Create reputation system with 3 color prefix tiers when beta server starts. Good rep gets good effects now and then. players start neutral/yellow.
 Make the loading world message say "Loading The Land" instead of "Joining Tillage".
 Remove some buttons in online settings options.
