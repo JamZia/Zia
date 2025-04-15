@@ -110,6 +110,7 @@ Double check drinkable items have thirst quenching.
 Add dynamic lighting. (High Priority)
 Fix connected textures (High Priority)
 Players in-co-op animations buggy.
+Fix Cat Textures (probably just make new ones entirely)
 Fix the "fullscreen loading screen" bug.
 Biomes o plenty texture support. (High Priority)
 Make all structures rarer.
