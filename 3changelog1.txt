@@ -51,6 +51,8 @@ Unused.
 Unused.
 - Removed Better Brightness Slider
 Felt a little cheaty.
+- Removed Create: CopyCats+.
+Incompatible.
 - Removed Effective. (Replaced by Particular)
 - Removed Diagonal Fences.
 Causes too many pathfinding AI issues.
@@ -122,4 +124,3 @@ Change 'hal4' to something else. Check other music.
 Connectedness
 Creatures and beasts
 Numismatic Overhaul: Reforged
-Create: CopyCats+ bugfixes
