@@ -106,6 +106,8 @@ Polish/Finish co-op.
 Go through and potentially customize each config. (High Priority)
 Add main menu music by Lawnle. (?)
 Add more main menu music.
+Update Create Textures/excalibur
+Fix wither skull texture.
 Double check drinkable items have thirst quenching.
 Add dynamic lighting. (High Priority)
 Fix connected textures (High Priority)
