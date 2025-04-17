@@ -105,8 +105,7 @@ Unused.
 Polish/Finish co-op.
 Go through and potentially customize each config. (High Priority)
 Add main menu music by Lawnle. (?)
-Add more main menu music
-Retexture dragon, fix wither texture.
+Add more main menu music.
 Double check drinkable items have thirst quenching.
 Add dynamic lighting. (High Priority)
 Fix connected textures (High Priority)
@@ -118,11 +117,10 @@ Make all structures rarer.
 Finish textures for Tide Mod.
 Create reputation system with 3 color prefix tiers when beta server starts. Good rep gets good effects now and then. players start neutral/yellow.
 Make the loading world message say "Loading The Land" instead of "Joining Tillage".
-Remove some buttons in online settings options.
 Change/Redo the Getting Started pause menu thing.
 Change 'hal4' to something else. Check other music.
 
 # Waiting List:
 Connectedness
 Creatures and beasts
-Numismatic Overhaul: Reforged
+Numismatic Overhaul: Reforged (remove biggerstacks if not updated)
