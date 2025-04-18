@@ -91,7 +91,7 @@ Unused.
 - Added an animated game intro.
 - Put Voice Chat settings into game settings.
 - Removed "Quit to Desktop" button.
-- Changed the main menu music.
+- Added 10 new main menu songs.
 - Removed origin biome.
 - Made realistic clouds more realistic.
 - Players no longer spawn with a horse.
