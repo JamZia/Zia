@@ -108,8 +108,6 @@ Unused.
 # To-do List:
 Polish/Finish co-op.
 Go through and potentially customize each config. (High Priority)
-Add main menu music by Lawnle. (?)
-Add more main menu music.
 Update Create Textures/excalibur
 Fix Create fluid pipe texture
 Fix furnace UI animations.
