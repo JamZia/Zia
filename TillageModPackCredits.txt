@@ -2,10 +2,10 @@
 # Tillage Modpack Credits
 
 JamZia - Developer
-tommotom - Creator & Inspiration
+tommotom - Inspiration
+SelGuard - Server Partner
 
 ## Beta Testers:
-SelGuard
 CobaltFlame
 LXVIID
 AdmiralPlantdad
@@ -24,6 +24,7 @@ Penore
 thecutegard
 Wynther
 zero8034
+Storm_youtube
 
 ## Texture Artists:
 Maffhew - Excalibur Pack Creator
@@ -33,6 +34,7 @@ Pablito
 Otacon21
 flabberghastio
 TC
+Ruseki
 maévius
 Abyssal_Kutku
 ^^^
