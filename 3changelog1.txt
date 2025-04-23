@@ -107,6 +107,7 @@ Unused.
 
 # To-do List:
 Polish/Finish co-op.
+Players cannot join co-op without creating singleplayer world first.
 Go through and potentially customize each config. (High Priority)
 Update Create Textures/excalibur
 Fix Create fluid pipe texture
