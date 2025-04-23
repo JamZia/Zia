@@ -113,6 +113,7 @@ Update Create Textures/excalibur
 Fix Create fluid pipe texture
 Fix furnace UI animations.
 Fix hungeroverlay.
+Add look up to drink to tips.
 Change texture for emotes? (quark resourcepack?)
 Change death noise? Resource pack?
 Double check drinkable items have thirst quenching.
