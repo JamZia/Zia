@@ -1,5 +1,5 @@
 # 3.0 Beta Changelog:
-## Feature Additions
+## New Features
 - Returned/Fixed Singleplayer Functionality!
 - Added co-op! New "Invite Friends" button in singleplayer.
 - Introducing a new Reputation system for dedicated multiplayer.
@@ -9,8 +9,8 @@
 - Added tons of new and super detailed structures.
 - Added new main menu music.
 
-
-## Mod Additions- Added Nirvana.
+## Mod Additions
+- Added Nirvana.
 A detailed cannabis mod that focuses on farming and functionality.
 - Added Naturalist.
 Naturalist adds more real life animals. Compatible with Alex's Mobs and a few more.
