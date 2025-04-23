@@ -3,6 +3,7 @@
 - Returned/Fixed Singleplayer Functionality!
 - Added co-op! New "Invite Friends" button in singleplayer.
 - Introducing a new Reputation system for dedicated multiplayer.
+- Added a Tutorial World.
 - Added Tips in the pause menu.
 - Added and fixed lots of Tillage's textures.
 - Added randomly generated character roleplay stats in character creation.
