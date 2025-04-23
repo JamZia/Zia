@@ -112,16 +112,13 @@ Incompatibile.
 Unused.
 
 # To-do List:
-Polish/Finish co-op.
-Players cannot join co-op without creating singleplayer world first.
 Go through and potentially customize each config. (High Priority)
 Update Create Textures/excalibur
 Fix Create fluid pipe texture
 Fix hungeroverlay.
-Add textures for Small Ships mod.
 Change texture for emotes? (quark resourcepack?)
 Change death noise? Resource pack?
-Double check drinkable items have thirst quenching.
+Double check drinkable items have thirst quenching. (High Priority)
 Fix connected textures (High Priority)
 Fix Cat Textures (probably just make new ones entirely)
 Fix the "fullscreen loading screen" bug.
