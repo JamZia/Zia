@@ -112,6 +112,7 @@ Go through and potentially customize each config. (High Priority)
 Update Create Textures/excalibur
 Fix Create fluid pipe texture
 Fix furnace UI animations.
+Change death noise? Resource pack?
 Double check drinkable items have thirst quenching.
 Fix connected textures (High Priority)
 Players in-co-op animations buggy.
