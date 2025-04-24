@@ -57,6 +57,7 @@ Performance mod. Disables entities ticking while not visible.
 - Removed origin biome.
 - Made realistic clouds more realistic.
 - Players no longer spawn with a horse.
+- Player names are now visible when in range.
 - Adjusted some mob spawn rates.
 - Changed the starter kit items.
 - Made multiplayer-style gamerules global.
