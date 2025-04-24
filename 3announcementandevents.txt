@@ -1,4 +1,2 @@
-# ☀ Welcome to the Tillage 3.0 Beta.
-## "The Solitude & Style Update"
-Expect bugs. Report bugs directly to JamZia.
-Expected release: #/##/2025.
+# ☀ Welcome to the Tillage 3.0 Beta Release.
+Tillage III is the most complete and refined version of the game to date. It builds on everything that worked in Tillage 2 and leaves behind what didn’t. The update brings full support for singleplayer and introduces seamless co-op, a brand-new reputation system for dedicated multiplayer, and a tutorial world for new players. The performance is significantly improved, the UI has been reworked, and countless features have been added or overhauled—from new dynamic structures and roleplay systems to detailed textures and immersive ambient changes. The mod list has been carefully curated, cutting redundant or underperforming mods and replacing them with ones that bring real depth to the world. This isn’t just an update. It's a whole new game.
