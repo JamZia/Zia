@@ -116,10 +116,8 @@ Go through and potentially customize each config. (High Priority)
 Update Create Textures/excalibur
 Fix Create fluid pipe texture
 Fix hungeroverlay.
-Change death noise? Resource pack?
 Double check drinkable items have thirst quenching. (High Priority)
 Fix connected textures (High Priority)
-Fix Cat Textures (probably just make new ones entirely)
 Fix the "fullscreen loading screen" bug.
 Biomes o plenty texture support. (High Priority)
 Finish textures for Tide Mod.
