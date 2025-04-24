@@ -1,16 +1,16 @@
 # 3.0 Changelog:
 ## New Features
-- Returned/Fixed Singleplayer Functionality!
+- Returned/fixed singleplayer functionality!
 - Added co-op! New "Invite Friends" button in singleplayer.
-- Modified and Clarified Dedicated Multiplayer Rules.
-- Introducing a new Reputation system for dedicated multiplayer.
-- Added a Tutorial World.
-- Added Tips in the pause menu.
+- Modified and clarified dedicated multiplayer rules.
+- Introducing a new reputation system for dedicated multiplayer.
+- Added a tutorial world.
+- Added gameplay tips in the pause menu.
 - Added and fixed lots of Tillage's textures.
 - Added randomly generated character roleplay stats in character creation.
 - Added tons of new and super detailed structures.
 - Added new main menu music.
-- Added some performance friendly Shaderpacks.
+- Added some performance friendly shaderpacks.
 
 ## Mod Additions
 - Added Nirvana.
@@ -21,7 +21,7 @@ Naturalist adds more real life animals. Compatible with Alex's Mobs and a few mo
 Fighting now has a little bit of pixel gore.
 - Added Amendments.
 Extra features and tweaks to many existing vanilla blocks.
-- Added Rain should extinguish campfires.
+- Added Rain Should Extinguish Campfires.
 Rain extinguish campfires if outside.
 - Added Loot Journal. (Replaced Pickup Notifier)
 Shows the player what they recently picked up.
@@ -59,7 +59,7 @@ Performance mod. Disables entities ticking while not visible.
 - Removed origin biome.
 - Made realistic clouds more realistic.
 - Players no longer spawn with a horse.
-- Player names are now visible when in range.
+- Player names are now only visible when player is visible.
 - Adjusted some mob spawn rates.
 - Changed the starter kit items.
 - Made multiplayer-style gamerules global.
