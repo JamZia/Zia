@@ -65,66 +65,44 @@ Performance mod. Disables entities ticking while not visible.
 
 ## Removals
 - Removed Cultural Delights.
-Incompatible/Duplicate content.
 - Removed Knight Quest.
-Buggy. Difficult to follow and unused.
 - Removed Pickup Notifier. (Replcaced by Loot Journal)
 - Removed Sorcerium.
-Incompatible content.
 - Removed Breezy.
-Unused.
 - Removed Easy Magic.
-Unused.
 - Removed Better Brightness Slider
-Felt a little cheaty.
 - Removed Create: CopyCats+.
-Incompatible.
 - Removed Effective. (Replaced by Particular)
 - Removed Diagonal Fences.
-Causes too many pathfinding AI issues.
 - Removed Fast Paintings.
-Unnecessary.
 - Removed Texels Paintings.
-Unused.
 - Removed Too Many Paintings.
-Unused.
 - Removed Just a Well.
-Incompatible content/Unused.
 - Removed Kakapos.
-Unused.
 - removed Dynamic Crosshair.
-Too confusing for new players.
 - Removed Miners Helmet.
-Unused.
 - Removed Lightspeed.
-Mod not updated.
 - Removed PickupTorches.
-Unnecessary.
 - Removed Reforgium.
-Mod not updated.
 - Removed Simple Musket.
-Unnecessary.
 - Removed Immersive Paintings.
-Unused.
 - Removed ModernFix.
-Incompatibile.
+- Removed Numismatic Overhaul.
+- Removed Creatures & Beasts.
 - Removed Stardew Fishing.
-Unused.
 
 # To-do List:
-Go through and potentially customize each config. (High Priority)
+Go through and potentially customize each config.
 Update Create Textures/excalibur
 Fix Create fluid pipe texture
-Fix hungeroverlay.
-Double check drinkable items have thirst quenching. (High Priority)
-Fix connected textures (High Priority)
+Fix hungeroverlay textures.
+Double check drinkable items have thirst quenching.
+Fix connected textures.
 Fix the "fullscreen loading screen" bug.
-Biomes o plenty texture support. (High Priority)
+Biomes o plenty texture support.
 Finish textures for Tide Mod.
 Create reputation system with 3 color prefix tiers when beta server starts. Good rep gets good effects now and then. players start neutral/yellow.
 Change 'hal4' to something else. Check other music.
 
 # Waiting List:
 Connectedness
-Creatures and beasts
-Numismatic Overhaul: Reforged (remove biggerstacks if not updated)
