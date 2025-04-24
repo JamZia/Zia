@@ -96,6 +96,11 @@ Performance mod. Disables entities ticking while not visible.
 - Removed Creatures & Beasts.
 - Removed Stardew Fishing.
 
+# Current known bugs:
+Some items not showing in creative tabs or jei. (Still craftable though..)
+Some Shaderpacks make entities temporarily opaque.
+Having no singleplayer worlds/deleting the tutorial world breaks co-op.
+
 # To-do List:
 Make Tutorial World More in-depth with controls.
 Go through each config.
