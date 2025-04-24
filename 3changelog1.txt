@@ -68,6 +68,7 @@ Performance mod. Disables entities ticking while not visible.
 - Removed Knight Quest.
 - Removed Pickup Notifier. (Replcaced by Loot Journal)
 - Removed Sorcerium.
+- Removed Bigger Stacks.
 - Removed Breezy.
 - Removed Easy Magic.
 - Removed Better Brightness Slider
