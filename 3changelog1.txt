@@ -2,6 +2,7 @@
 ## New Features
 - Returned/Fixed Singleplayer Functionality!
 - Added co-op! New "Invite Friends" button in singleplayer.
+- Modified and Clarified Dedicated Multiplayer Rules.
 - Introducing a new Reputation system for dedicated multiplayer.
 - Added a Tutorial World.
 - Added Tips in the pause menu.
@@ -96,7 +97,6 @@ Performance mod. Disables entities ticking while not visible.
 - Removed Stardew Fishing.
 
 # To-do List:
-Redo/Specify Multiplayer Rules.
 Make Tutorial World More in-depth with controls.
 Go through each config.
 Update Create Textures/excalibur
