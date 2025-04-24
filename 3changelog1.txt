@@ -1,4 +1,4 @@
-# 3.0 Beta Changelog:
+# 3.0 Changelog:
 ## New Features
 - Returned/Fixed Singleplayer Functionality!
 - Added co-op! New "Invite Friends" button in singleplayer.
@@ -93,12 +93,13 @@ Performance mod. Disables entities ticking while not visible.
 - Removed Stardew Fishing.
 
 # To-do List:
-Go through and potentially customize each config.
+Go through each config.
 Update Create Textures/excalibur
 Fix Create fluid pipe texture
 Fix hungeroverlay textures.
-Double check drinkable items have thirst quenching.
+Finish adding all drinks to thirst system.
 Add Biomes o plenty texture support.
 Finish textures for Tide Mod.
+Finish textures for lots of mods.
 Implement/Create reputation system.
 Change 'hal4' to something else. Check other music.
