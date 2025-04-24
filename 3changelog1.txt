@@ -21,6 +21,8 @@ Naturalist adds more real life animals. Compatible with Alex's Mobs and a few mo
 Fighting now has a little bit of pixel gore.
 - Added Amendments.
 Extra features and tweaks to many existing vanilla blocks.
+- Added Create: Dynamic Village.
+Adds Create-style village integration and villager professions.
 - Added Rain Should Extinguish Campfires.
 Rain extinguish campfires if outside.
 - Added Loot Journal. (Replaced Pickup Notifier)
