@@ -98,7 +98,6 @@ Update Create Textures/excalibur
 Fix Create fluid pipe texture
 Fix hungeroverlay textures.
 Double check drinkable items have thirst quenching.
-Fix the "fullscreen loading screen" bug.
 Add Biomes o plenty texture support.
 Finish textures for Tide Mod.
 Implement/Create reputation system.
