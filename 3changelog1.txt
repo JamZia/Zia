@@ -111,6 +111,7 @@ Fix Create fluid pipe texture
 Fix hungeroverlay textures.
 Finish adding all drinks to thirst system.
 Add Biomes o plenty texture support.
+Finish plane gui textures
 Finish textures for Tide Mod.
 Finish textures for any mods that need it.
 Implement/Create reputation system.
