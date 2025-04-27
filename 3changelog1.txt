@@ -105,11 +105,10 @@ Some Shaderpacks make entities temporarily opaque.
 Having no singleplayer worlds/deleting the tutorial world breaks co-op.
 
 # To-do List:
-Go through each config.
-Update Create Textures/excalibur
-Fix Create fluid pipe texture
-Fix hungeroverlay textures.
 Finish adding all drinks to thirst system.
+Config, Config Config!
+Finish/Fix Create Textures.
+Fix hungeroverlay textures.
 Add Biomes o plenty texture support.
 Finish plane gui textures
 Finish textures for Tide Mod.
