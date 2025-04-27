@@ -8,6 +8,7 @@
 - Added gameplay tips in the pause menu.
 - Added and fixed lots of Tillage's textures.
 - Added randomly generated character roleplay stats in character creation.
+- Changed the way creatures are displayed on the minimap.
 - Added tons of new and super detailed structures.
 - Added new main menu music.
 - Added some performance friendly shaderpacks.
