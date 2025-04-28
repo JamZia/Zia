@@ -1,7 +1,5 @@
 # ☀ Welcome to the Tillage 3.0 Beta.
 Tillage III is the most polished version yet.
-It builds on what worked in Tillage 2 and drops what didn’t.
 The update adds full singleplayer support, seamless co-op, a new reputation system for multiplayer, and a tutorial world for new players.
 Performance is better, the UI is improved, and tons of features—from dynamic structures to roleplay systems—have been added or reworked.
-The mod list was carefully refined, cutting weaker mods and replacing them with ones that add real depth.
-This isn’t just an update—it’s a whole new game.
+The mod list was carefully refined, cutting weaker mods and replacing them with ones that add real depth. Enjoy!
