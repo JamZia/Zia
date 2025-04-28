@@ -89,7 +89,6 @@ Performance mod. Disables entities ticking while not visible.
 - removed Dynamic Crosshair.
 - Removed Miners Helmet.
 - Removed Lightspeed.
-- Removed Sawmill.
 - Removed PickupTorches.
 - Removed Reforgium.
 - Removed Simple Musket.
@@ -106,6 +105,7 @@ Having no singleplayer worlds/deleting the tutorial world breaks co-op.
 
 # To-do List:
 Finish adding all drinks to thirst system.
+Add Supplementaries sack gui texture.
 Config, Config Config!
 Add/Fix Create Textures.
 Fix hungeroverlay textures.
