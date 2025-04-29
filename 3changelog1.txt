@@ -108,7 +108,6 @@ Finish adding all drinks to thirst system.
 Add Supplementaries sack gui texture.
 Config, Config Config!
 Add/Fix Create Textures.
-Fix Cake Textures
 Add Biomes o plenty texture support.
 Finish plane gui textures
 Finish textures for Tide Mod. (Jelly Torch)
