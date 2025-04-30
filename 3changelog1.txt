@@ -14,6 +14,8 @@
 - Added some performance friendly shaderpacks.
 
 ## Mod Additions
+- Added Joy of Painting.
+Create your own custom paintings from canvas to wall.
 - Added Nirvana.
 A detailed cannabis mod that focuses on farming and functionality.
 - Added Naturalist.
@@ -99,9 +101,8 @@ Performance mod. Disables entities ticking while not visible.
 - Removed Stardew Fishing.
 
 # Current known bugs:
-Some items not showing in creative tabs or jei. (Still craftable though..)
-Some Shaderpacks make entities temporarily opaque.
-Having no singleplayer worlds/deleting the tutorial world breaks co-op.
+Some items not showing in creative tabs or jei.
+Having no singleplayer worlds breaks co-op.
 
 # To-do List:
 Finish adding all drinks to thirst system.
