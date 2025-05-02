@@ -107,10 +107,13 @@ Having no singleplayer worlds breaks co-op.
 # To-do List:
 Implement/Create reputation system.
 Finish adding all drinks to thirst system.
-Add Supplementaries sack gui texture.
 Config, Config Config!
-Add/Fix Create Textures.
-Add Biomes o plenty texture support.
-Finish plane gui textures
-Finish textures for Tide Mod. (Jelly Torch)
-Finish textures for any mods that need it.
+Finish textures for these mods (low priority)
+- Biomes o Plenty
+- Create
+- Supplementaries
+- Corn Delight
+- Tide mod
+- Backpacks
+- Immersive Aircraft/Planes
+- Thirst UI (maybe?)
