@@ -105,6 +105,7 @@ Some items not showing in creative tabs or jei.
 Having no singleplayer worlds breaks co-op.
 
 # To-do List:
+test nifty ships
 Test medieval siege machines
 Implement/Create reputation system.
 Finish adding all drinks to thirst system.
