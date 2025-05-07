@@ -25,5 +25,5 @@ Take your time! Explore and build your place in the world. We’re here for stor
 # Strikes and Reports:
 The server uses a three-strike system. Breaking any rule will result in a strike. False or malicious reports are strictly prohibited. If you abuse the report system—whether by making up reports, spamming staff, or using it to harass others, you will receive a strike.
 
-
-Thank you for reading the rules. Click the lantern to join.
+# Thank you.
+Click the lantern to join.
