@@ -106,7 +106,7 @@ Having no singleplayer worlds breaks co-op.
 
 # To-do List:
 Play around with haunted harvest a bit more. (if I like it, add it to the added list and remove delight)
-Implement/Create reputation system.
+Server - Implement/Create reputation system.
 Config, Config Config!
 Finish textures for these mods (low priority)
 - Biomes o Plenty
