@@ -105,10 +105,8 @@ Some items not showing in creative tabs or jei.
 Having no singleplayer worlds breaks co-op.
 
 # To-do List:
-test nifty ships
-Test medieval siege machines
+Play around with haunted harvest a bit more. (if I like it, add it to the added list and remove delight)
 Implement/Create reputation system.
-Finish adding all drinks to thirst system.
 Config, Config Config!
 Finish textures for these mods (low priority)
 - Biomes o Plenty
