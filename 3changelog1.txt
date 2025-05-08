@@ -111,6 +111,7 @@ Config, Config Config!
 Finish textures for these mods (low priority)
 - Biomes o Plenty
 - Create
+- Thirst was taken -sand filter block
 - Supplementaries
 - Corn Delight
 - Tide mod
