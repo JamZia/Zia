@@ -117,4 +117,3 @@ Finish textures for these mods (low priority)
 - Tide mod
 - Backpacks
 - Immersive Aircraft/Planes
-- Thirst UI (maybe?)
