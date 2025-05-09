@@ -122,9 +122,8 @@ Finish textures for these mods (low priority)
 - Naturalist (snail bucket)
 - Biomes o Plenty
 - Create
-- Thirst was taken -sand filter block
-- Supplementaries
-- Corn Delight
-- Tide mod
+- Thirst was taken (sand filter block)
+- Supplementaries (?)
+- Tide mod (book and misc)
 - Backpacks
-- Immersive Aircraft/Planes
+- Immersive Aircraft/Planes (ui)
