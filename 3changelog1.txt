@@ -119,6 +119,7 @@ Play around with haunted harvest a bit more. (if I like it, add it to the added 
 Server - Implement/Create reputation system.
 Config, Config Config!
 Finish textures for these mods (low priority)
+- Naturalist (snail bucket)
 - Biomes o Plenty
 - Create
 - Thirst was taken -sand filter block
