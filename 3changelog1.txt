@@ -115,6 +115,7 @@ Some items not showing in creative tabs or jei.
 Having no singleplayer worlds breaks co-op.
 
 # To-do List:
+Get Discord RPC working
 Play around with haunted harvest a bit more. (if I like it, add it to the added list and remove delight)
 Server - Implement/Create reputation system.
 Config, Config Config!
