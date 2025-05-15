@@ -97,6 +97,7 @@ Performance mod. Disables entities ticking while not visible.
 - Removed Too Many Paintings.
 - Removed Just a Well.
 - Removed The Floo
+- Removed Gliders
 - Removed Kakapos.
 - removed Dynamic Crosshair.
 - Removed Miners Helmet.
