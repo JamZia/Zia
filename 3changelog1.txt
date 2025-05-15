@@ -4,20 +4,24 @@
 - Added co-op! New "Invite Friends" button in singleplayer.
 - Added and fixed lots of Tillage's textures.
 - Added a tutorial world.
-- Added a "Default Controls" feature.
-- Added gameplay tips in the pause menu.
-- Added randomly generated character roleplay stats and new lore.
-- Changed the way creatures are displayed on the minimap.
+- Added a "Default Controls" page.
+- Added gameplay tips to the pause menu.
+- Added randomly generated character roleplay-only stats and lore.
 - Added tons of new and super detailed structures.
 - Added new main menu music.
 - Introducing a new reputation system for dedicated multiplayer.
-- Modified and clarified dedicated multiplayer rules.
 
 ## Mod Additions
 - Joy of Painting.
 Create your own custom paintings from canvas to wall.
+- Coastal Waves.
+Adds breaking waves to beaches.
+- Wakes Reforged.
+Adds water wakes for entities.
 - Nirvana.
 A detailed cannabis mod that focuses on farming and functionality.
+- Backpacked: World of Color
+Adds many new backpack colors.
 - Naturalist.
 Adds more real life animals. Compatible with Alex's Mobs and a few more.
 - Blood Bits.
@@ -62,9 +66,8 @@ Improved HUD aspects.
 Performance mod. Disables entities ticking while not visible.
 
 ## Gameplay Changes
-- Main Menu Announcements and Versions now read live from Github.
-- Changed most of the UI menus.
-- Added an animated game intro.
+- All saplings grow into dynamic trees.
+- Changed the way creatures are displayed on the minimap.
 - Put Voice Chat settings into game settings.
 - Removed "Quit to Desktop" button.
 - Removed origin biome.
@@ -75,10 +78,12 @@ Performance mod. Disables entities ticking while not visible.
 - Adjusted horse/cart speeds.
 - Adjusted some mob spawn rates.
 - Changed the starter kit items.
-- Made multiplayer-style gamerules global.
-- All saplings grow into dynamic trees.
 - Nerfed the Fisherman Trap.
 - Made voice chat better. (Experimental)
+- Main Menu Announcements and Versions now read live from Github.
+- Changed most of the UI menus.
+- Added an animated game intro.
+- Modified and clarified dedicated multiplayer rules.
 
 ## Removals
 - Removed Cultural Delights.
