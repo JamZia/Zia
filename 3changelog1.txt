@@ -122,6 +122,7 @@ Having no singleplayer worlds breaks co-op.
 
 # To-do List:
 Fix Keep Inventory being stuck on
+fix drinking from natural water source
 Get Discord RPC working
 Dungeon Perspective mod?
 Server - Implement/Create reputation system.
