@@ -121,6 +121,7 @@ Some items not showing in creative tabs or jei.
 Having no singleplayer worlds breaks co-op.
 
 # To-do List:
+Fix Keep Inventory being stuck on
 Get Discord RPC working
 Dungeon Perspective mod?
 Server - Implement/Create reputation system.
