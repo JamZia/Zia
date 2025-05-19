@@ -73,7 +73,8 @@ Performance mod. Disables entities ticking while not visible.
 - Removed origin biome.
 - Removed lots of uncraftable items.
 - Made realistic clouds more realistic.
-- Players no longer spawn with a horse.
+- Player no longer spawn with a horse.
+- Player can no longer drink from water blocks.
 - Player names are now only visible when player is visible.
 - Adjusted horse/cart speeds.
 - Adjusted some mob spawn rates.
@@ -116,16 +117,10 @@ Performance mod. Disables entities ticking while not visible.
 - Removed Creatures & Beasts.
 - Removed Stardew Fishing.
 
-# Current known bugs:
-Some items not showing in creative tabs or jei.
-Having no singleplayer worlds breaks co-op.
-
-# To-do List:
-fix drinking from natural water source
+# Future Plans:
 Get Discord RPC working
-Dungeon Perspective mod?
+Dungeon Perspective viewpoints
 Server - Implement/Create reputation system.
-Config, Config Config!
 Finish textures for these mods (low priority)
 - Naturalist (snail bucket)
 - Biomes o Plenty
