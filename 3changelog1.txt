@@ -6,7 +6,7 @@
 - Added a tutorial world.
 - Added a "Default Controls" page.
 - Added gameplay tips to the pause menu.
-- Added randomly generated character roleplay-only stats and lore.
+- Added random character roleplay-only stats and lore.
 - Added tons of new and super detailed structures.
 - Added new main menu music.
 - Introducing a new reputation system for dedicated multiplayer.
@@ -23,9 +23,9 @@ A detailed cannabis mod that focuses on farming and functionality.
 - Backpacked: World of Color
 Adds many new backpack colors.
 - Naturalist.
-Adds more real life animals. Compatible with Alex's Mobs and a few more.
+Adds more real life animals.
 - Blood Bits.
-Fighting now has a little bit of pixel gore.
+Fighting now has a little bit of pixel gore feedback.
 - Amendments.
 Extra features and tweaks to many existing vanilla blocks.
 - Create: Dynamic Village.
