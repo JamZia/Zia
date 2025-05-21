@@ -28,8 +28,6 @@ Adds more real life animals.
 Fighting now has a little bit of pixel gore feedback.
 - Amendments.
 Extra features and tweaks to many existing vanilla blocks.
-- Aether Villages.
-Simply adds villages and temples to the Aether.
 - Create: Dynamic Village.
 Adds Create-style village integration and villager professions.
 - Rain Should Extinguish Campfires.
@@ -68,6 +66,8 @@ Improved HUD aspects.
 Performance mod. Disables entities ticking while not visible.
 
 ## Gameplay Changes
+- New Aether Villages*
+- Change item name colors in anvils.*
 - All saplings grow into dynamic trees.
 - Changed the way creatures are displayed on the minimap.
 - Put Voice Chat settings into game settings.
@@ -87,6 +87,7 @@ Performance mod. Disables entities ticking while not visible.
 - Changed most of the UI menus.
 - Added an animated game intro.
 - Modified and clarified dedicated multiplayer rules.
+*Dedicated Multiplayer Only
 
 ## Removals
 - Removed Cultural Delights.
