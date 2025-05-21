@@ -28,6 +28,8 @@ Adds more real life animals.
 Fighting now has a little bit of pixel gore feedback.
 - Amendments.
 Extra features and tweaks to many existing vanilla blocks.
+- Aether Villages.
+Simply adds villages and temples to the Aether.
 - Create: Dynamic Village.
 Adds Create-style village integration and villager professions.
 - Rain Should Extinguish Campfires.
