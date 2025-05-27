@@ -121,6 +121,7 @@ Performance mod. Disables entities ticking while not visible.
 - Removed Stardew Fishing.
 
 # Future Plans:
+Change Pillager textures to make Dark Cover cult.
 Dungeon Perspective viewpoints
 Server - Implement/Create reputation system.
 Finish textures for these mods (low priority)
