@@ -1,133 +1,122 @@
 # 3.0 Changelog:
+
 ## New Features
-- Returned/fixed singleplayer functionality!
-- Added co-op! New "Invite Friends" button in singleplayer.
-- Added and fixed lots of Tillage's textures.
-- Added a tutorial world.
-- Added a "Default Controls" page.
-- Added gameplay tips to the pause menu.
-- Added random character roleplay-only stats and lore.
-- Added tons of new and super detailed structures.
-- Added new main menu music.
-- Introducing a new reputation system for dedicated multiplayer.
+
+* Returned/fixed singleplayer functionality
+* Added co-op mode with new "Invite Friends" button in singleplayer
+* Added and fixed numerous Tillage textures
+* Introduced a tutorial world
+* Added a "Default Controls" reference page
+* Added gameplay tips to the pause menu
+* Introduced random character roleplay-only stats and lore
+* Added numerous detailed world structures
+* Added new main menu music
+* Introduced a reputation system for dedicated multiplayer
+
+---
 
 ## Mod Additions
-- Joy of Painting.
-Create your own custom paintings from canvas to wall.
-- Coastal Waves.
-Adds breaking waves to beaches.
-- Wakes Reforged.
-Adds water wakes for entities.
-- Nirvana.
-A detailed cannabis mod that focuses on farming and functionality.
-- Backpacked: World of Color
-Adds many new backpack colors.
-- Naturalist.
-Adds more real life animals.
-- Blood Bits.
-Fighting now has a little bit of pixel gore feedback.
-- Amendments.
-Extra features and tweaks to many existing vanilla blocks.
-- Create: Dynamic Village.
-Adds Create-style village integration and villager professions.
-- Rain Should Extinguish Campfires.
-Rain extinguish campfires if outside.
-- Loot Journal. (Replaced Pickup Notifier)
-Shows the player what they recently picked up.
-- Particular. (Replaced Effective)
-Adds particles from splashes, rain and more.
-- Biomancy.
-Flesh-related 'magic' stuff and bio-machines.
-- Chalk.
-Chalk allows you to draw marks for easier navigation in the world.
-- Lucent.
-Dynamic Lighting (Works with Create).
-- Quark Delight.
-An add-on for Farmer's Delight that adds compatibility with Quark.
-- ImmersiveUI.
-Smoother transitions and animated UI components.
-- e4mc.
-Adds the ability to share your singleplayer worlds. (Co-op)
-- Fantasy Armor Medieval Series.
-Adds many new netherite-tier detailed and decorational armor sets.
-- Ribbits.
-Meet and trade with Ribbits, little frog-like villagers.
-- Dynamic Trees - Alex's Mobs Compat.
-Adds banana plants and acacia blossoms drops for acacia trees.
-- Rustic Delight.
-Pancakes, coffee, bell peppers and cotton.
-- Haunted Harvest. (Replaced Corn Delight)
-Adds pumpkin carving, corn, seasonal mechanics and more.
-- Better F3.
-Improves the F3 debug screen.
-- HideHud.
-Improved HUD aspects.
-- Does It Tick?
-Performance mod. Disables entities ticking while not visible.
+
+### Visual & Aesthetic
+
+* **Joy of Painting** – Create custom paintings from canvas to wall
+* **Coastal Waves** – Adds breaking waves to beaches
+* **Wakes Reforged** – Adds water wakes for entities
+* **Lucent** – Dynamic lighting, compatible with Create
+* **HideHud** – Improved and minimal HUD elements
+* **Better F3** – Enhanced debug screen layout
+
+### Gameplay & Content
+
+* **Nirvana** – Cannabis farming and functionality
+* **Backpacked: World of Color** – New backpack color options
+* **Naturalist** – Adds realistic animals
+* **Blood Bits** – Pixel gore combat feedback
+* **Amendments** – Enhancements to vanilla block functionality
+* **Create: Dynamic Village** – Villagers with Create-style professions and village content
+* **Rain Should Extinguish Campfires** – Rain now extinguishes exposed campfires
+* **Loot Journal** (replaces Pickup Notifier) – Displays recently picked-up items
+* **Particular** (replaces Effective) – Adds splash, rain, and other ambient particles
+* **Biomancy** – Flesh-based magic and biological machines
+* **Chalk** – Allows players to mark navigation paths
+* **Quark Delight** – Adds compatibility between Farmer’s Delight and Quark
+* **ImmersiveUI** – Adds animated and smooth UI transitions
+* **e4mc** – Enables singleplayer world sharing for co-op
+* **Fantasy Armor Medieval Series** – Adds detailed, decorative netherite-tier armor sets
+* **Ribbits** – Introduces frog-like villagers with unique trades
+* **Dynamic Trees – Alex’s Mobs Compat** – Adds banana plants and acacia blossom drops
+* **Rustic Delight** – Adds pancakes, coffee, bell peppers, and cotton
+* **Haunted Harvest** (replaces Corn Delight) – Adds pumpkin carving, corn, and seasonal events
+* **Does It Tick?** – Disables entity ticking when not visible, improving performance
+
+---
 
 ## Gameplay Changes
-- New Aether Villages*
-- Change item name colors in anvils.*
-- All saplings grow into dynamic trees.
-- Changed the way creatures are displayed on the minimap.
-- Put Voice Chat settings into game settings.
-- Removed "Quit to Desktop" button.
-- Removed origin biome.
-- Removed lots of uncraftable items.
-- Made realistic clouds more realistic.
-- Player no longer spawn with a horse.
-- Player can no longer drink from water blocks.
-- Player names are now only visible when player is visible.
-- Adjusted horse/cart speeds.
-- Adjusted some mob spawn rates.
-- Changed the starter kit items.
-- Nerfed the Fisherman Trap.
-- Made voice chat better. (Experimental)
-- Main Menu Announcements and Versions now read live from Github.
-- Changed most of the UI menus.
-- Added an animated game intro.
-- Modified and clarified dedicated multiplayer rules.
-*Dedicated Multiplayer Only
+
+* Added Aether villages to multiplayer
+* All saplings now grow into dynamic trees
+* Updated creature display on minimap
+* Moved voice chat settings into game settings
+* Removed "Quit to Desktop" button
+* Removed origin biome
+* Removed various uncraftable items
+* Improved realism in cloud visuals
+* Players no longer spawn with a horse
+* Players can no longer drink directly from water blocks
+* Player names only visible when players are visible
+* Adjusted horse and cart movement speeds
+* Adjusted various mob spawn rates
+* Updated starter kit item list
+* Nerfed the Fisherman Trap
+* Improved voice chat system (experimental)
+* Main menu announcements and version info now read live from GitHub
+* Redesigned most UI menus
+* Added animated game intro
+* Updated and clarified rules for dedicated multiplayer
+
+---
 
 ## Removals
-- Removed Cultural Delights.
-- Removed Knight Quest.
-- Removed Pickup Notifier. (Replcaced by Loot Journal)
-- Removed Sorcerium.
-- Removed Bigger Stacks.
-- Removed Breezy.
-- Removed Easy Magic.
-- Removed Better Brightness Slider
-- Removed Create: CopyCats+.
-- Removed Effective. (Replaced by Particular)
-- Removed Diagonal Fences.
-- Removed Fast Paintings.
-- Removed Texels Paintings.
-- Removed Too Many Paintings.
-- Removed Just a Well.
-- Removed The Floo
-- Removed Gliders
-- Removed Kakapos.
-- removed Dynamic Crosshair.
-- Removed Miners Helmet.
-- Removed Lightspeed.
-- Removed PickupTorches.
-- Removed Reforgium.
-- Removed Simple Musket.
-- Removed Immersive Paintings.
-- Removed ModernFix.
-- Removed Numismatic Overhaul.
-- Removed Creatures & Beasts.
-- Removed Stardew Fishing.
 
-# Future Plans:
-Change Pillager textures to make Dark Cover cult.
-Dungeon Perspective viewpoints
-Server - Implement/Create reputation system.
-Finish textures for these mods (low priority)
-- Naturalist (snail bucket)
-- Biomes o Plenty
-- Create
-- Supplementaries (ui)
-- Tide mod (book and misc)
-- Immersive Aircraft/Planes (ui)
+* Cultural Delights
+* Knight Quest
+* Pickup Notifier (replaced by Loot Journal)
+* Sorcerium
+* Bigger Stacks
+* Breezy
+* Easy Magic
+* Better Brightness Slider
+* Create: CopyCats+
+* Effective (replaced by Particular)
+* Diagonal Fences
+* Fast Paintings
+* Texels Paintings
+* Too Many Paintings
+* Just a Well
+* The Floo
+* Gliders
+* Kakapos
+* Dynamic Crosshair
+* Miner's Helmet
+* Lightspeed
+* PickupTorches
+* Reforgium
+* Simple Musket
+* Immersive Paintings
+* ModernFix
+* Numismatic Overhaul
+* Creatures & Beasts
+* Stardew Fishing
+
+---
+
+# Future Plans
+
+* Finish texture support for the following mods (low priority):
+
+  * Naturalist (creature buckets)
+  * Biomes o’ Plenty
+  * Create
+  * Supplementaries (UI)
+  * Tide Mod (book and miscellaneous)
+  * Immersive Aircraft/Planes (UI)
