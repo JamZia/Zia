@@ -2,7 +2,7 @@
 Tillage III is the most polished version yet.
 The update includes performance and UI improvements, singleplayer, co-op, new features for multiplayer and a tutorial world.
 
-## July 4th - Public Release!
+## July 24th - Public Release!
 We’re unleashing what we’ve been building behind the scenes — the project we've poured months into, refined, broken, rebuilt, and brought to life.
 You've seen the teasers.
 Now it's time.
