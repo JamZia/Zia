@@ -5,7 +5,6 @@
 * Returned/fixed singleplayer functionality
 * Added co-op mode with new "Invite Friends" button in singleplayer
 * Added and fixed numerous Tillage textures
-* Introduced a tutorial world
 * Added a "Default Controls" reference page
 * Added gameplay tips to the pause menu
 * Introduced random character roleplay-only stats and lore
@@ -22,7 +21,7 @@
 * **Joy of Painting** – Create custom paintings from canvas to wall
 * **Coastal Waves** – Adds breaking waves to beaches
 * **Wakes Reforged** – Adds water wakes for entities
-* **Lucent** – Dynamic lighting, compatible with Create
+* **Lucent** – Dynamic lighting
 * **HideHud** – Improved and minimal HUD elements
 * **Better F3** – Enhanced debug screen layout
 
@@ -33,7 +32,6 @@
 * **Naturalist** – Adds realistic animals
 * **Blood Bits** – Pixel gore combat feedback
 * **Amendments** – Enhancements to vanilla block functionality
-* **Create: Dynamic Village** – Villagers with Create-style professions and village content
 * **Rain Should Extinguish Campfires** – Rain now extinguishes exposed campfires
 * **Loot Journal** (replaces Pickup Notifier) – Displays recently picked-up items
 * **Particular** (replaces Effective) – Adds splash, rain, and other ambient particles
@@ -68,6 +66,7 @@
 * Adjusted various mob spawn rates
 * Updated starter kit item list
 * Nerfed the Fisherman Trap
+* Changed fishing mechanics
 * Improved voice chat system (experimental)
 * Main menu announcements and version info now read live from GitHub
 * Redesigned most UI menus
@@ -79,6 +78,7 @@
 ## Removals
 
 * Cultural Delights
+* Create
 * Knight Quest
 * Pickup Notifier (replaced by Loot Journal)
 * Sorcerium
@@ -107,16 +107,3 @@
 * Numismatic Overhaul
 * Creatures & Beasts
 * Stardew Fishing
-
----
-
-# Future Plans
-
-* Finish texture support for the following mods (low priority):
-
-  * Naturalist (creature buckets)
-  * Biomes o’ Plenty
-  * Create
-  * Supplementaries (UI)
-  * Tide Mod (book and miscellaneous)
-  * Immersive Aircraft/Planes (UI)
