@@ -1,5 +1,6 @@
 # ☀ Welcome to the Tillage 3.0 Beta.
 Tillage III is the most polished version yet.
-The update includes performance and UI improvements, singleplayer, co-op, new features for multiplayer and a tutorial world.
+The update includes performance and UI improvements, singleplayer, co-op and plenty of new features.
 
-## July 24th - Public Release!
+# Events:
+## July 24th - Official Release!
