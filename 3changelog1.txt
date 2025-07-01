@@ -18,11 +18,11 @@
 
 ### Visual & Aesthetic
 
-* **Joy of Painting** – Create custom paintings from canvas to wall
 * **Coastal Waves** – Adds breaking waves to beaches
+* **Auroras** - Adds beautiful auroras to the sky
+* **Rainbows** - You guessed it. Rainbows!
 * **Wakes Reforged** – Adds water wakes for entities
 * **Lucent** – Dynamic lighting
-* **HideHud** – Improved and minimal HUD elements
 * **Better F3** – Enhanced debug screen layout
 
 ### Gameplay & Content
@@ -30,6 +30,7 @@
 * **Nirvana** – Cannabis farming and functionality
 * **Backpacked: World of Color** – New backpack color options
 * **Naturalist** – Adds realistic animals
+* **Riding Partners** - Ride a horse with a friend
 * **Blood Bits** – Pixel gore combat feedback
 * **Amendments** – Enhancements to vanilla block functionality
 * **Rain Should Extinguish Campfires** – Rain now extinguishes exposed campfires
@@ -38,6 +39,7 @@
 * **Biomancy** – Flesh-based magic and biological machines
 * **Chalk** – Allows players to mark navigation paths
 * **Quark Delight** – Adds compatibility between Farmer’s Delight and Quark
+* **Joy of Painting** – Create custom paintings from canvas to wall
 * **ImmersiveUI** – Adds animated and smooth UI transitions
 * **e4mc** – Enables singleplayer world sharing for co-op
 * **Fantasy Armor Medieval Series** – Adds detailed, decorative netherite-tier armor sets
@@ -46,6 +48,7 @@
 * **Rustic Delight** – Adds pancakes, coffee, bell peppers, and cotton
 * **Haunted Harvest** (replaces Corn Delight) – Adds pumpkin carving, corn, and seasonal events
 * **Does It Tick?** – Disables entity ticking when not visible, improving performance
+
 
 ---
 
