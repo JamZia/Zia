@@ -2,15 +2,15 @@
 
 ## New Features
 
-* Returned/fixed singleplayer functionality
-* Added co-op mode with new "Invite Friends" button in singleplayer
-* Added and fixed numerous Tillage textures
-* Added a "Default Controls" reference page
-* Added gameplay tips to the pause menu
-* Introduced random character roleplay-only stats and lore
-* Added numerous detailed world structures
-* Added new main menu music
-* Introduced a reputation system for dedicated multiplayer
+- Returned/fixed singleplayer functionality
+- Added co-op mode with new "Invite Friends" button in singleplayer
+- Added and fixed numerous Tillage textures
+- Added a "Default Controls" reference page
+- Added gameplay tips to the pause menu
+- Introduced random character roleplay-only stats and lore
+- Added numerous detailed world structures
+- Added new main menu music
+- Introduced a reputation system for dedicated multiplayer
 
 ---
 
@@ -18,95 +18,94 @@
 
 ### Visual & Aesthetic
 
-* **Coastal Waves** – Adds breaking waves to beaches
-* **Auroras** - Adds beautiful auroras to the sky
-* **Rainbows** - You guessed it. Rainbows!
-* **Wakes Reforged** – Adds water wakes for entities
-* **Lucent** – Dynamic lighting
-* **Better F3** – Enhanced debug screen layout
+**Coastal Waves** – Adds breaking waves to beaches
+**Auroras** - Adds beautiful auroras to the sky
+**Rainbows** - You guessed it. Rainbows!
+**Wakes Reforged** – Adds water wakes for entities
+**Lucent** – Dynamic lighting
+**Better F3** – Enhanced debug screen layout
 
 ### Gameplay & Content
 
-* **Nirvana** – Cannabis farming and functionality
-* **Backpacked: World of Color** – New backpack color options
-* **Naturalist** – Adds realistic animals
-* **Riding Partners** - Ride a horse with a friend
-* **Blood Bits** – Pixel gore combat feedback
-* **Amendments** – Enhancements to vanilla block functionality
-* **Rain Should Extinguish Campfires** – Rain now extinguishes exposed campfires
-* **Loot Journal** (replaces Pickup Notifier) – Displays recently picked-up items
-* **Particular** (replaces Effective) – Adds splash, rain, and other ambient particles
-* **Biomancy** – Flesh-based magic and biological machines
-* **Chalk** – Allows players to mark navigation paths
-* **Quark Delight** – Adds compatibility between Farmer’s Delight and Quark
-* **Joy of Painting** – Create custom paintings from canvas to wall
-* **ImmersiveUI** – Adds animated and smooth UI transitions
-* **e4mc** – Enables singleplayer world sharing for co-op
-* **Fantasy Armor Medieval Series** – Adds detailed, decorative netherite-tier armor sets
-* **Ribbits** – Introduces frog-like villagers with unique trades
-* **Dynamic Trees – Alex’s Mobs Compat** – Adds banana plants and acacia blossom drops
-* **Rustic Delight** – Adds pancakes, coffee, bell peppers, and cotton
-* **Haunted Harvest** (replaces Corn Delight) – Adds pumpkin carving, corn, and seasonal events
-* **Does It Tick?** – Disables entity ticking when not visible, improving performance
+**Nirvana** – Cannabis farming and functionality
+**Backpacked: World of Color** – New backpack color options
+**Naturalist** – Adds realistic animals
+**Riding Partners** - Ride a horse with a friend
+**Blood Bits** – Pixel gore combat feedback
+**Amendments** – Enhancements to vanilla block functionality
+**RSEC** – Rain now extinguishes exposed campfires
+**Loot Journal** (replaces Pickup Notifier) – Displays recently picked-up items
+**Particular** (replaces Effective) – Adds splash, rain, and other ambient particles
+**Biomancy** – Flesh-based magic and biological machines
+**Chalk** – Allows players to mark navigation paths
+**Quark Delight** – Adds compatibility between Farmer’s Delight and Quark
+**Joy of Painting** – Create custom paintings from canvas to wall
+**ImmersiveUI** – Adds animated and smooth UI transitions
+**e4mc** – Enables singleplayer world sharing for co-op
+**Fantasy Armor Medieval Series** – Adds detailed, decorative netherite-tier armor sets
+**Ribbits** – Introduces frog-like villagers with unique trades
+**Dynamic Trees – Alex’s Mobs Compat** – Adds banana plants and acacia blossom drops
+**Rustic Delight** – Adds pancakes, coffee, bell peppers, and cotton
+**Haunted Harvest** (replaces Corn Delight) – Adds pumpkin carving, corn, and seasonal events
+**Does It Tick?** – Disables entity ticking when not visible, improving performance
 
 
 ---
 
 ## Gameplay Changes
 
-* Added Aether villages to multiplayer
-* All saplings now grow into dynamic trees
-* Updated creature display on minimap
-* Moved voice chat settings into game settings
-* Removed "Quit to Desktop" button
-* Removed origin biome
-* Removed various uncraftable items
-* Improved realism in cloud visuals
-* Players no longer spawn with a horse
-* Players can no longer drink directly from water blocks
-* Player names only visible when players are visible
-* Adjusted horse and cart movement speeds
-* Adjusted various mob spawn rates
-* Updated starter kit item list
-* Nerfed the Fisherman Trap
-* Changed fishing mechanics
-* Improved voice chat system (experimental)
-* Main menu announcements and version info now read live from GitHub
-* Redesigned most UI menus
-* Added animated game intro
-* Updated and clarified rules for dedicated multiplayer
+Added Aether villages to multiplayer
+All saplings now grow into dynamic trees
+Updated creature display on minimap
+Moved voice chat settings into game settings
+Removed "Quit to Desktop" button
+Removed origin biome
+Removed various uncraftable items
+Improved realism in cloud visuals
+Players no longer spawn with a horse
+Players can no longer drink directly from water blocks
+Player names only visible when players are visible
+Adjusted horse and cart movement speeds
+Adjusted various mob spawn rates
+Updated starter kit item list
+Nerfed the Fisherman Trap
+Changed fishing mechanics
+Improved voice chat system (experimental)
+Main menu announcements and version info now read live from GitHub
+Redesigned most UI menus
+Added animated game intro
+Updated and clarified rules for dedicated multiplayer
 
 ---
 
 ## Removals
 
-* Cultural Delights
-* Create
-* Knight Quest
-* Pickup Notifier (replaced by Loot Journal)
-* Sorcerium
-* Bigger Stacks
-* Breezy
-* Easy Magic
-* Better Brightness Slider
-* Create: CopyCats+
-* Effective (replaced by Particular)
-* Diagonal Fences
-* Fast Paintings
-* Texels Paintings
-* Too Many Paintings
-* Just a Well
-* The Floo
-* Gliders
-* Kakapos
-* Dynamic Crosshair
-* Miner's Helmet
-* Lightspeed
-* PickupTorches
-* Reforgium
-* Simple Musket
-* Immersive Paintings
-* ModernFix
-* Numismatic Overhaul
-* Creatures & Beasts
-* Stardew Fishing
+Cultural Delights
+Create
+Knight Quest
+Pickup Notifier (replaced by Loot Journal)
+Sorcerium
+Bigger Stacks
+Breezy
+Easy Magic
+Better Brightness Slider
+Create: CopyCats+
+Effective (replaced by Particular)
+Diagonal Fences
+Fast Paintings
+Texels Paintings
+Too Many Paintings
+Just a Well
+The Floo
+Gliders
+Kakapos
+Dynamic Crosshair
+Miner's Helmet
+Lightspeed
+PickupTorches
+Reforgium
+Simple Musket
+Immersive Paintings
+ModernFix
+Numismatic Overhaul
+Creatures & Beasts
