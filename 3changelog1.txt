@@ -55,6 +55,7 @@
 ## Gameplay Changes
 
 Added Aether villages to multiplayer
+Added descriptions to enchantments
 All saplings now grow into dynamic trees
 Updated creature display on minimap
 Moved voice chat settings into game settings
