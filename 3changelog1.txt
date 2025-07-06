@@ -1,3 +1,13 @@
+# 3.0.1 Changelog:
+
+## Changes:
+- Fixed mangrove tree leaf texture.
+- Improved the server status text above the play button.
+- Changed the minimum ram suggestion on startup to match game options.
+- Updated a few mods. (No additions)
+
+---
+
 # 3.0 Changelog:
 
 ## New Features
