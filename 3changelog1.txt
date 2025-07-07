@@ -1,12 +1,14 @@
 # 3.0.1 Changelog: (7/6/25)
 
 ## Changes:
-- Re-added Numismatic Overhaul (testing. not fully implemented)
-- Made logging in safer on multiplayer.
-- Fixed mangrove tree leaf texture.
-- Improved the server status text above the play button.
-- Changed the minimum ram suggestion on startup to match game options.
-- Updated a few mods.
+- Made logging in safer on multiplayer
+- Made a possible solution for "unable to connect" multiplayer issue
+- Fixed the mangrove tree leaf texture (Thanks Pappy!)
+- Improved the server status text in the play menu
+- Changed the minimum ram suggestion on startup to match game options
+- Removed the reports button under the emotes button
+- Updated a few mods
+- Updated added and improved some in-game tips
 
 ---
 
