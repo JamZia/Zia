@@ -1,4 +1,4 @@
-# 3.0.1 Changelog: (7/6/25)
+# 3.0.1 Changelog: (7/7/25)
 
 ## Changes:
 - Made logging in safer on multiplayer
