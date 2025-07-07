@@ -1,7 +1,7 @@
 # 3.0.1 Changelog: (7/6/25)
 
 ## Changes:
-- Re-added Numismatic Overhaul (finally updated)
+- Re-added Numismatic Overhaul (testing. not fully implemented)
 - Made logging in safer on multiplayer.
 - Fixed mangrove tree leaf texture.
 - Improved the server status text above the play button.
