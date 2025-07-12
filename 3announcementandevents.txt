@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d02b2683-546b-4232-82c0-c9a6db3fcc2b" />
 # ☀ Welcome to the Tillage 3.0 Beta.
 Tillage III is the most polished version yet.
 The update includes performance and UI improvements, singleplayer, co-op and plenty of new features.
