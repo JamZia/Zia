@@ -1,3 +1,24 @@
+# 3.0.3 Changelog: (7/13/25)
+
+## Changes:
+- Added chunk claiming to dedicated multiplayer '/claim'
+(Claiming is experimental and may have bugs)
+- Added Goblin Traders
+Underground cave and nether traders.
+- Added back Numismatic Overhaul with Tillage-style textures
+Bronze, silver and gold coins, for villager and rp trading.
+- Updated Voice Chat & enabled chat link on Discord
+Chat from Discord to Tillagers in-game and vice versa.
+- Updated Nirvana mod
+- Slightly nerfed the Dark Cover
+Lowered equipment spawn chance by .7% 
+- Added one Dark Cover piglin brute variation (rare)
+- Nerfed some lunar events.
+(Removed bad omen moon, changed moon chances and removed ghasts in crimson moons)
+- Upgraded the main menu announcement ui.
+
+---
+
 # 3.0.2 Changelog: (7/9/25)
 
 ## Changes:
