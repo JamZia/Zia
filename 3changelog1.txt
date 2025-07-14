@@ -1,8 +1,6 @@
 # 3.0.3 Changelog: (7/13/25)
 
 ## Changes:
-- Added chunk claiming to dedicated multiplayer '/claim'
-(Claiming is experimental and may have bugs)
 - Added Goblin Traders
 Underground cave and nether traders.
 - Added back Numismatic Overhaul with Tillage-style textures
