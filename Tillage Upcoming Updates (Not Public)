@@ -1,10 +1,15 @@
 # 3.0.4 Changelog: (?/?/25)
 
 ## Changes:
+- Added Crawling (X by default)
 - Added Biomantic Delight.
 Adds new items and recipes for meals from Biomancy.
 - Added Dew Drop & compats.
 Adds watering cans and gameplay mechanics.
+- Updated Lit it Up.
+Furnace UI now has a button information. Switchgrass is now a stage crop.
+- Removed Unlit Campfire mod.
+New mechanics in Lit it up make this useless.
 - Nerfed Player health gain. (Multiplayer only)
 Players now start with 8 hearts, and gain 1x heart per 12 milestone(s).
 - Rebalanced most weapons.
@@ -14,8 +19,9 @@ Most weapons do more damage, short weapons are faster, longer weapons have more 
 - Villagers now give silver coins as tax payment instead of emeralds.
 - Raised the chance to have twins by 10%.
 - Infected villagers now have 8 hours of time before they turn.
-- Added more tips.
 - Removed some non-medieval items.
+- Updated Default Controls screen.
+- Added more tips.
 - Minor UI changes.
 
 
@@ -24,6 +30,8 @@ remove too many paintings (WAY LATER IN 3.1)
 
 Finish wandering trader textures w/ grandpappy
 
+UPDATE FZZYCONFIG ON SERVER
+add lit it up gpdate to server
 add Biomantic Delight TO SERVER
 add vminus config to SERVER
 add epicKnights config TO SERVER
