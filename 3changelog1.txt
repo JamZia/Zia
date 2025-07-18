@@ -1,3 +1,17 @@
+## Multiplayer Changes: (7/18/25)
+- Changed Mutliplayer Rules.
+Added extra clarification and safety precautions.
+- Nerfed health gain.
+Players now start with 8 hearts, and gain 1x heart per 12 milestone(s).
+- Rebalanced most weapons.
+Most weapons do more damage, short weapons are faster, longer weapons have more reach and a longer swing.
+- Made nametags on villagers and players invisible unless close.
+- Villagers now give silver coins as tax payment instead of emeralds.
+- Raised the chance to have twins by 10%.
+- Infected villagers now have 8 hours of time before they turn.
+
+---
+
 # 3.0.3 Changelog: (7/13/25)
 
 ## Changes:
