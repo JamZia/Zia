@@ -1,13 +1,15 @@
 # 3.0.4 Changelog: (?/?/25)
 
 ## Changes:
+- Changed Mutliplayer Rules.
+Added extra clarification and safety precautions.
 - Added Crawling (X by default)
 - Added Biomantic Delight.
 Adds new items and recipes for meals from Biomancy.
 - Added Dew Drop & compats.
 Adds watering cans and gameplay mechanics. (Called "Spoutpots" in-game)
 - Updated Lit it Up.
-Furnace UI now has a button information. Switchgrass is now a stage crop.
+Furnace UI now has a button with info. Switchgrass is now a stage crop.
 - Removed Unlit Campfire mod.
 New mechanics in Lit it Up make this useless.
 - Nerfed Player health gain. (Multiplayer only)
@@ -20,29 +22,17 @@ Most weapons do more damage, short weapons are faster, longer weapons have more 
 - Infected villagers now have 8 hours of time before they turn.
 - Changed the Amulet of Undying's texture to a transparent emerald crux.
 - Added some textures to mods.
+- Added an alien-like wandering trader.
 - Removed some non-medieval items.
 - Updated Default Controls screen.
 - Added more tips.
 - Minor UI changes.
-
 
 To-do:
 remove too many paintings (WAY LATER IN 3.1)
 
 Finish wandering trader textures w/ grandpappy
 
-make all IP addresses consistant on join buttons. all point to tillage.myzia.network
-
-UPDAte worldmap and minimap
-update balm
-UPDATE FZZYCONFIG ON SERVER
-add lit it up gpdate to server
-add Biomantic Delight TO SERVER
-add vminus config to SERVER
-add epicKnights config TO SERVER
-actually update nirvana 1.1.2 ON SERVER
-add dew drop and compat on SERVER
-TRANSFER MCA CONFIG TO SERVER
 
 
 server voting?
